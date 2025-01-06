@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20ynnij's%20GitHub&fontSize=40&height=250)
 
 <p align="center">
- ✨💻 웹 개발자를 목표로 공부하고 있습니다! 💻✨
 </p>
 <p align="center">
 
